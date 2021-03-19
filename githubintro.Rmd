@@ -1,0 +1,11 @@
+---
+title: "Github intro"
+author: "Emma Seiberlich"
+date: "3/19/2021"
+output: html_document
+---
+I'm trying to learn Github, help!
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
